@@ -15,6 +15,8 @@ namespace ConsoleAppSample
 
         private static void testproject()
         {
+            string s = "xyz";
+
         }
     }
 }
