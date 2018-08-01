@@ -10,6 +10,11 @@ namespace ConsoleAppSample
     {
         static void Main(string[] args)
         {
+            testproject();
+        }
+
+        private static void testproject()
+        {
         }
     }
 }
