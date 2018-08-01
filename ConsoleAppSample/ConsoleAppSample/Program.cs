@@ -20,6 +20,10 @@ namespace ConsoleAppSample
 
             string n = "hddjjdjdj";
 
+            string y = "test1";
+
+            string z = "test2";
+
         }
     }
 }
