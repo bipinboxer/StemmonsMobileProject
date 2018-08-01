@@ -17,6 +17,9 @@ namespace ConsoleAppSample
         {
             string s = "xyz";
 
+
+            string n = "hddjjdjdj";
+
         }
     }
 }
